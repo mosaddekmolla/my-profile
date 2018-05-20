@@ -1,0 +1,150 @@
+* {
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+body {
+
+    font-family: 'Roboto Mono', monospace;
+
+}
+body {
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+
+}
+html {
+
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+
+}
+html {
+
+    font-size: 10px;
+
+}
+html {
+
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+.header-img-container {
+
+    width: 92%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(
+      to right, 
+      #fffdc2,
+      #fffdc2 15%,
+      #d7f0a2 15%,
+      #d7f0a2 85%,
+      #fffdc2 85%
+    );
+
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+
+}
+
+.section1 .welcome-container .heading
+{
+    text-align: center;
+    background: #30336b;
+    color: #eb4d4b;
+    width: 92%;
+    margin: 0 auto;
+    padding: 0;
+    background: linear-gradient(
+      to right, 
+      #fffdc2,
+      #fffdc2 15%,
+      #d7f0a2 15%,
+      #d7f0a2 85%,
+      #fffdc2 85%
+    );
+
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+    
+   
+}
+.text p
+{
+    font-size: 16px;
+    background:#1e272e ;
+    text-align: center;
+    color:#ffffff;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    padding: 2px 2px 30px 30px;
+    border-bottom-color: #32a1ce;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+h1
+{
+    text-align: center;
+    color: #0652DD;
+    border-bottom: 2px solid rgba(64, 64, 122, 0.2);
+}
+
+.about-me-table table 
+{
+
+    width: 60%;
+    margin: 0 auto;
+    padding: 0;
+    color: rgba(64, 64, 122, 0.9);
+    font-size: 13pt;
+    border-bottom: 2px solid rgba(64, 64, 122, 0.2);
+  
+
+}
+
+.section3 .skills-container 
+{
+    text-align: center;
+    color: #eb4d4b;
+    width: 92%;
+    margin: 0 auto;
+    padding: 0;
+    background:
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
+
+
+.footer-container
+{
+    text-align: center;
+    color: #eb4d4b;
+    width: 92%;
+    margin: 0 auto;
+    padding: 0;
+    background:
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+    display: block;
+}
+.social
+{
+    display: inline-block;
+}
